@@ -6,9 +6,12 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Senior UI/UX Designer focused on crafting intuitive, high-impact digital experiences and user-centered design systems.
+        </p>
+        <h3 className="title" style={{ marginTop: '50px' }}>Education</h3>
+        <p className="para">
+          Bachelor’s in Software Engineering<br />
+          University of Toronto
         </p>
       </div>
     </div>

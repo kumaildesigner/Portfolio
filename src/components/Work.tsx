@@ -53,23 +53,104 @@ const Work = () => {
           My <span>Work</span>
         </h2>
         <div className="work-flex">
-          {[...Array(6)].map((_value, index) => (
-            <div className="work-box" key={index}>
-              <div className="work-info">
-                <div className="work-title">
-                  <h3>0{index + 1}</h3>
-
-                  <div>
-                    <h4>Project Name</h4>
-                    <p>Category</p>
-                  </div>
+          <div className="work-box">
+            <div className="work-info">
+              <div className="work-title">
+                <h3>01</h3>
+                <div>
+                  <h4>Smart Grocery App</h4>
+                  <p>Mobile UX Case Study</p>
                 </div>
-                <h4>Tools and features</h4>
-                <p>Javascript, TypeScript, React, Threejs</p>
               </div>
-              <WorkImage image="/images/placeholder.webp" alt="" />
+              <h4>Tools and features</h4>
+              <p>Figma, FigJam, Personalized UI</p>
             </div>
-          ))}
+            <WorkImage image="/images/grocery.png" alt="Smart Grocery App Mockup" />
+          </div>
+          <div className="work-box">
+            <div className="work-info">
+              <div className="work-title">
+                <h3>02</h3>
+                <div>
+                  <h4>Freelancer Dashboard</h4>
+                  <p>Web App UI</p>
+                </div>
+              </div>
+              <h4>Tools and features</h4>
+              <p>Figma, Adobe XD, Analytics UI</p>
+            </div>
+            <WorkImage image="/images/freelancer.png" alt="Freelancer Dashboard Mockup" />
+          </div>
+          <div className="work-box">
+            <div className="work-info">
+              <div className="work-title">
+                <h3>03</h3>
+                <div>
+                  <h4>Travel Booking</h4>
+                  <p>Website Redesign</p>
+                </div>
+              </div>
+              <h4>Tools and features</h4>
+              <p>Figma, UX Optimization</p>
+            </div>
+            <WorkImage image="/images/travel.png" alt="Travel Booking Mockup" />
+          </div>
+          <div className="work-box">
+            <div className="work-info">
+              <div className="work-title">
+                <h3>04</h3>
+                <div>
+                  <h4>Food Delivery App</h4>
+                  <p>UI Concept Design</p>
+                </div>
+              </div>
+              <h4>Tools and features</h4>
+              <p>Figma, ProtoPie, Micro-interactions</p>
+            </div>
+            <WorkImage image="/images/food.png" alt="Food Delivery App Mockup" />
+          </div>
+          <div className="work-box">
+            <div className="work-info">
+              <div className="work-title">
+                <h3>05</h3>
+                <div>
+                  <h4>AI Productivity Tool</h4>
+                  <p>Web App Concept</p>
+                </div>
+              </div>
+              <h4>Tools and features</h4>
+              <p>Figma, Notion, Task Automation UI</p>
+            </div>
+            <WorkImage image="/images/ai-productivity.png" alt="AI Productivity Tool Mockup" />
+          </div>
+          <div className="work-box">
+            <div className="work-info">
+              <div className="work-title">
+                <h3>06</h3>
+                <div>
+                  <h4>E-Learning Platform</h4>
+                  <p>Web + Mobile UI/UX</p>
+                </div>
+              </div>
+              <h4>Tools and features</h4>
+              <p>Figma, FigJam, Interactive Quiz UI</p>
+            </div>
+            <WorkImage image="/images/e-learning.png" alt="E-Learning Platform Mockup" />
+          </div>
+          <div className="work-box">
+            <div className="work-info">
+              <div className="work-title">
+                <h3>07</h3>
+                <div>
+                  <h4>Fitness Tracking App</h4>
+                  <p>Mobile UI Concept</p>
+                </div>
+              </div>
+              <h4>Tools and features</h4>
+              <p>Figma, Adobe XD, Data Visualization</p>
+            </div>
+            <WorkImage image="/images/fitness-tracking.png" alt="Fitness Tracking App Mockup" />
+          </div>
         </div>
       </div>
     </div>

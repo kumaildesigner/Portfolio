@@ -87,24 +87,17 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>DEVELOP</h3>
-              <h4>Description</h4>
+              <h3>DESIGN</h3>
+              <h4>Technical Arsenal</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Expertise in crafting elite design systems and seamless user experiences using industry-leading tools.
               </p>
-              <h5>Skillset & tools</h5>
+              <h5>Design Tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">Figma (Expert)</div>
+                <div className="what-tags">Adobe Photoshop</div>
+                <div className="what-tags">Adobe Illustrator</div>
+                <div className="what-tags">Framer</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -128,22 +121,17 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN</h3>
-              <h4>Description</h4>
+              <h3>DISCIPLINES</h3>
+              <h4>Core Methodology</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                Applying deep software engineering logic to architectural visual design and user experience.
               </p>
-              <h5>Skillset & tools</h5>
+              <h5>Core Disciplines</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">User Experience (UX)</div>
+                <div className="what-tags">Wireframing</div>
+                <div className="what-tags">System Design</div>
+                <div className="what-tags">Visual Architecture</div>
               </div>
               <div className="what-arrow"></div>
             </div>

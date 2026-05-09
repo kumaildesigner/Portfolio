@@ -15,44 +15,43 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>UI/UX Designer</h4>
+                <h5>Archways Dev</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Focused on user-centered solutions and scalable design systems for emerging digital platforms.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>UI/UX Designer</h4>
+                <h5>Ravions</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Crafted elite visual architectures and seamless user flows for high-traffic applications.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>UI/UX Designer</h4>
+                <h5>Appspires</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2026</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Current role: Merging deep software engineering logic with design to elevate digital product experiences.
             </p>
+          </div>
+          <div className="career-info-box">
+             <p style={{ marginTop: '20px', fontSize: '16px', opacity: 0.8 }}>
+               1.5 years of high-impact, results-driven design experience focused on user-centered solutions and scalable systems.
+             </p>
           </div>
         </div>
       </div>
